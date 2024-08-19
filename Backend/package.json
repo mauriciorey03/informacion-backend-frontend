@@ -17,6 +17,7 @@
     },
     "homepage": "https://github.com/mauriciorey03/informacion-backend-frontend#readme",
     "dependencies": {
+        "backend": "file:",
         "body-parser": "^1.20.2",
         "cors": "^2.8.5",
         "dotenv": "^16.4.5",
